@@ -127,6 +127,8 @@ ion-icon {
   border-radius: 100px;
   width: 200px;
   height: 200px;
+  background: url("../resources/avatar.png") center center;
+  background-size: 200px;
 }
 
 /* line 68, ../sass/style.scss */
